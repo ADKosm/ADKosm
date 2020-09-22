@@ -2,7 +2,7 @@
 
 My name is Alexey Kosmachev. I'm a software engineer interested in distributed systems, software architecture and DevOps\MLOps.
 
-I am also concerned about education sphere and I do my best to share my knowledge with young specialists in the computer science
+I am also concerned about education sphere and I do my best to share my knowledge with young specialists in the computer science.
 
 <!--
 **ADKosm/ADKosm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-My name is Alexey Kosmachev. I'm a software engineer interested in distributed systems, software architecture and DevOps\MLOps.
+My name is Alexey Kosmachev. I am a software engineer with 10 years of experience in the IT industry. My main areas of expertise are distributed systems, software architecture, and operations engineering.
 
-I am also concerned about education sphere and I do my best to share my knowledge with young specialists in the computer science.
+I am also dedicated to education sphere and I do my best to share my knowledge with young specialists in the computer science for the past 5 years.
 
 <!--
 **ADKosm/ADKosm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
